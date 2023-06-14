@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg1047"
+   version="1.1"
+   overflow="hidden"
+   height="960"
+   width="720">
+  <metadata
+     id="metadata1051">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs881">
+    <clipPath
+       id="clip0">
+      <rect
+         id="rect833"
+         height="960"
+         width="720"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="clip1">
+      <rect
+         id="rect836"
+         height="69"
+         width="70"
+         y="172"
+         x="75" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <rect
+         id="rect839"
+         height="69"
+         width="70"
+         y="172"
+         x="75" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <rect
+         id="rect842"
+         height="69"
+         width="70"
+         y="172"
+         x="75" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <rect
+         id="rect845"
+         height="82"
+         width="82"
+         y="299"
+         x="75" />
+    </clipPath>
+    <clipPath
+       id="clip5">
+      <rect
+         id="rect848"
+         height="82"
+         width="82"
+         y="299"
+         x="75" />
+    </clipPath>
+    <clipPath
+       id="clip6">
+      <rect
+         id="rect851"
+         height="82"
+         width="82"
+         y="299"
+         x="75" />
+    </clipPath>
+    <clipPath
+       id="clip7">
+      <rect
+         id="rect854"
+         height="76"
+         width="76"
+         y="439"
+         x="72" />
+    </clipPath>
+    <clipPath
+       id="clip8">
+      <rect
+         id="rect857"
+         height="76"
+         width="76"
+         y="439"
+         x="72" />
+    </clipPath>
+    <clipPath
+       id="clip9">
+      <rect
+         id="rect860"
+         height="76"
+         width="76"
+         y="439"
+         x="72" />
+    </clipPath>
+    <clipPath
+       id="clip10">
+      <rect
+         id="rect863"
+         height="82"
+         width="82"
+         y="573"
+         x="70" />
+    </clipPath>
+    <clipPath
+       id="clip11">
+      <rect
+         id="rect866"
+         height="82"
+         width="82"
+         y="573"
+         x="70" />
+    </clipPath>
+    <clipPath
+       id="clip12">
+      <rect
+         id="rect869"
+         height="82"
+         width="82"
+         y="573"
+         x="70" />
+    </clipPath>
+    <clipPath
+       id="clip13">
+      <rect
+         id="rect872"
+         height="69"
+         width="69"
+         y="702"
+         x="76" />
+    </clipPath>
+    <clipPath
+       id="clip14">
+      <rect
+         id="rect875"
+         height="69"
+         width="69"
+         y="702"
+         x="76" />
+    </clipPath>
+    <clipPath
+       id="clip15">
+      <rect
+         id="rect878"
+         height="69"
+         width="69"
+         y="702"
+         x="76" />
+    </clipPath>
+    <clipPath
+       id="clipPath1057"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="165.49509"
+         x="82.176872"
+         height="81.035522"
+         width="58.208618"
+         id="rect1059"
+         style="fill:none;stroke:#00f600;stroke-width:3.02362" />
+    </clipPath>
+  </defs>
+  <g
+     id="g1045"
+     clip-path="url(#clipPath1057)">
+    <rect
+       id="rect883"
+       fill-opacity="0"
+       fill="#FFFFFF"
+       height="960"
+       width="720"
+       y="0"
+       x="0" />
+    <text
+       id="text885"
+       transform="translate(231.665 77)"
+       font-size="36"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">How It Works</text>
+    <g
+       id="g897"
+       clip-path="url(#clip1)">
+      <g
+         id="g895"
+         clip-path="url(#clip2)">
+        <g
+           id="g893"
+           clip-path="url(#clip3)">
+          <path
+             id="path887"
+             transform="matrix(1.01449 0 0 1 75 172)"
+             fill="#3A2A5C"
+             d="M55.2 45.7125C52.0375 43.125 48.0125 41.4 43.9875 40.25 41.1125 39.3875 37.95 38.8125 34.5 38.8125 31.3375 38.8125 28.175 39.3875 25.0125 40.25 20.9875 41.4 16.9625 43.4125 13.8 45.7125 12.3625 46.8625 11.5 48.5875 11.5 50.3125L11.5 61.8125 57.5 61.8125 57.5 50.3125C57.5 48.5875 56.6375 46.8625 55.2 45.7125Z" />
+          <path
+             id="path889"
+             transform="matrix(1.01449 0 0 1 75 172)"
+             fill="#3A2A5C"
+             d="M23.2875 14.6625C23.7188 14.6625 24.0781 14.5188 24.2937 14.2312L24.2937 14.2312C26.9531 11.6438 30.5469 10.0625 34.5 10.0625 42.4062 10.0625 48.875 16.5312 48.875 24.4375L48.875 27.7437 40.6094 30.475C40.25 30.3313 39.8906 30.1875 39.5312 30.1875 38.3094 30.1875 37.375 31.1219 37.375 32.3438 37.375 33.5656 38.3094 34.5 39.5312 34.5 40.3937 34.5 41.1844 33.9969 41.5438 33.2062L52.9719 29.3969C53.5469 29.1812 53.9781 28.6781 53.9781 28.0312L53.9781 21.5625C53.9781 20.7719 53.3312 20.125 52.5406 20.125L51.2469 20.125C49.3062 12.7219 42.55 7.1875 34.5 7.1875 29.8281 7.1875 25.5875 9.05625 22.425 12.075 22.0656 12.3625 21.85 12.7219 21.85 13.225 21.85 14.0156 22.4969 14.6625 23.2875 14.6625Z" />
+          <path
+             id="path891"
+             transform="matrix(1.01449 0 0 1 75 172)"
+             fill="#3A2A5C"
+             d="M45.9281 25.6594C46 25.2281 46 24.8687 46 24.4375 46 18.1125 40.825 12.9375 34.5 12.9375 28.175 12.9375 23 18.1125 23 24.4375 23 30.7625 28.175 35.9375 34.5 35.9375 34.7156 35.9375 35.0031 35.9375 35.2188 35.8656L35.2188 32.3438 35.2188 32.3438C35.2188 31.6969 35.3625 31.05 35.65 30.4031 36.1531 29.3969 37.0156 28.6062 38.1656 28.2469L45.9281 25.6594Z" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g921"
+       clip-path="url(#clip4)">
+      <g
+         id="g919"
+         clip-path="url(#clip5)">
+        <g
+           id="g917"
+           clip-path="url(#clip6)">
+          <path
+             id="path899"
+             fill="#3A2A5C"
+             d="M147.604 335.985 152.729 335.985 152.729 343.929 147.604 343.929Z" />
+          <path
+             id="path901"
+             fill="#3A2A5C"
+             d="M130.521 335.985 135.646 335.985 135.646 343.929 130.521 343.929Z" />
+          <path
+             id="path903"
+             fill="#3A2A5C"
+             d="M79.2708 335.985 84.3958 335.985 84.3958 343.929 79.2708 343.929Z" />
+          <path
+             id="path905"
+             fill="#3A2A5C"
+             d="M139.062 332.056 144.188 332.056 144.188 348.029 139.062 348.029Z" />
+          <path
+             id="path907"
+             fill="#3A2A5C"
+             d="M121.979 332.056 127.104 332.056 127.104 348.029 121.979 348.029Z" />
+          <path
+             id="path909"
+             fill="#3A2A5C"
+             d="M87.8125 332.056 92.9375 332.056 92.9375 348.029 87.8125 348.029Z" />
+          <path
+             id="path911"
+             fill="#3A2A5C"
+             d="M113.438 328.042 118.562 328.042 118.562 351.958 113.438 351.958Z" />
+          <path
+             id="path913"
+             fill="#3A2A5C"
+             d="M96.3542 324.027 101.479 324.027 101.479 355.888 96.3542 355.888Z" />
+          <path
+             id="path915"
+             fill="#3A2A5C"
+             d="M104.896 316.083 110.021 316.083 110.021 363.917 104.896 363.917Z" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g929"
+       clip-path="url(#clip7)">
+      <g
+         id="g927"
+         clip-path="url(#clip8)">
+        <g
+           id="g925"
+           clip-path="url(#clip9)">
+          <path
+             id="path923"
+             fill="#3A2A5C"
+             d="M136.125 479.375 130.663 469.875 130.663 469.479C131.137 456.337 120.846 445.333 107.704 444.858 94.5625 444.383 83.5583 454.596 83.0833 467.737 83.0833 468.292 83.0833 468.925 83.0833 469.479 83.0833 477 86.4875 484.046 92.425 488.638L92.425 508.667 117.442 508.667 117.442 499.167 121.321 499.167C126.467 499.167 130.663 494.971 130.663 489.825 130.663 489.746 130.663 489.746 130.663 489.667L130.663 484.917 134.146 484.917C136.204 484.679 138.025 482.304 136.125 479.375ZM86.6458 461.562 91 461.562 91 458.396C90.1292 457.763 89.9708 456.496 90.6042 455.625 91.2375 454.754 92.5042 454.596 93.375 455.229 94.2458 455.862 94.4042 457.129 93.7708 458 93.6917 458.158 93.5333 458.317 93.375 458.396L93.375 461.562 96.5417 461.562 96.5417 467.104C97.4125 467.737 97.5708 469.004 96.9375 469.875 96.3042 470.746 95.0375 470.904 94.1667 470.271 93.2958 469.638 93.1375 468.371 93.7708 467.5 93.85 467.342 94.0083 467.183 94.1667 467.104L94.1667 463.938 85.9333 463.938C86.1708 463.146 86.3292 462.354 86.6458 461.562ZM108.654 474.942C107.546 474.942 106.675 474.071 106.675 472.962 106.675 472.883 106.675 472.725 106.675 472.646L104.617 470.587 101.292 473.913 101.292 479.771C102.162 480.404 102.321 481.671 101.688 482.542 101.054 483.413 99.7875 483.571 98.9167 482.938 98.0458 482.304 97.8875 481.038 98.5208 480.167 98.6 480.008 98.7583 479.85 98.9167 479.771L98.9167 478.979 93.6125 478.979 89.8917 474.625C88.7833 474.704 87.8333 473.913 87.7542 472.804 87.675 471.696 88.4667 470.746 89.575 470.667 90.6833 470.587 91.6333 471.379 91.7125 472.487 91.7125 472.646 91.7125 472.883 91.7125 473.042L94.7208 476.604 98.9167 476.604 98.9167 472.962 102.954 468.925 100.5 466.392 100.5 452.062C99.6292 451.429 99.4708 450.163 100.104 449.292 100.738 448.421 102.004 448.263 102.875 448.896 103.746 449.529 103.904 450.796 103.271 451.667 103.192 451.825 103.033 451.983 102.875 452.062L102.875 454.438 109.208 454.438 109.208 459.979C110.079 460.612 110.238 461.879 109.604 462.75 108.971 463.621 107.704 463.779 106.833 463.146 105.963 462.513 105.804 461.246 106.438 460.375 106.517 460.217 106.675 460.058 106.833 459.979L106.833 456.812 102.875 456.812 102.875 465.442 108.417 470.983C108.496 470.983 108.575 470.983 108.654 470.983 109.762 470.983 110.633 471.854 110.633 472.962 110.633 474.071 109.762 474.942 108.654 474.942L108.654 474.942ZM118.312 458.95C117.204 458.95 116.333 458.079 116.333 456.971 116.333 456.892 116.333 456.892 116.333 456.812L113.167 453.962 113.167 448.183C113.958 448.421 114.75 448.737 115.542 449.054L115.542 452.933 117.917 455.071C118.075 455.071 118.154 455.071 118.312 455.071 119.421 455.071 120.292 455.942 120.292 457.05 120.292 458.158 119.421 458.95 118.312 458.95L118.312 458.95Z" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g953"
+       clip-path="url(#clip10)">
+      <g
+         id="g951"
+         clip-path="url(#clip11)">
+        <g
+           id="g949"
+           clip-path="url(#clip12)">
+          <path
+             id="path931"
+             transform="matrix(-1 0 0 1 152 573)"
+             fill="#3A2A5C"
+             d="M72.6042 36.9854 77.7292 36.9854 77.7292 44.9292 72.6042 44.9292Z" />
+          <path
+             id="path933"
+             transform="matrix(-1 0 0 1 152 573)"
+             fill="#3A2A5C"
+             d="M55.5208 36.9854 60.6458 36.9854 60.6458 44.9292 55.5208 44.9292Z" />
+          <path
+             id="path935"
+             transform="matrix(-1 0 0 1 152 573)"
+             fill="#3A2A5C"
+             d="M4.27083 36.9854 9.39583 36.9854 9.39583 44.9292 4.27083 44.9292Z" />
+          <path
+             id="path937"
+             transform="matrix(-1 0 0 1 152 573)"
+             fill="#3A2A5C"
+             d="M64.0625 33.0563 69.1875 33.0563 69.1875 49.0292 64.0625 49.0292Z" />
+          <path
+             id="path939"
+             transform="matrix(-1 0 0 1 152 573)"
+             fill="#3A2A5C"
+             d="M46.9792 33.0563 52.1042 33.0563 52.1042 49.0292 46.9792 49.0292Z" />
+          <path
+             id="path941"
+             transform="matrix(-1 0 0 1 152 573)"
+             fill="#3A2A5C"
+             d="M12.8125 33.0563 17.9375 33.0563 17.9375 49.0292 12.8125 49.0292Z" />
+          <path
+             id="path943"
+             transform="matrix(-1 0 0 1 152 573)"
+             fill="#3A2A5C"
+             d="M38.4375 29.0417 43.5625 29.0417 43.5625 52.9583 38.4375 52.9583Z" />
+          <path
+             id="path945"
+             transform="matrix(-1 0 0 1 152 573)"
+             fill="#3A2A5C"
+             d="M21.3542 25.0271 26.4792 25.0271 26.4792 56.8875 21.3542 56.8875Z" />
+          <path
+             id="path947"
+             transform="matrix(-1 0 0 1 152 573)"
+             fill="#3A2A5C"
+             d="M29.8958 17.0833 35.0208 17.0833 35.0208 64.9167 29.8958 64.9167Z" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g965"
+       clip-path="url(#clip13)">
+      <g
+         id="g963"
+         clip-path="url(#clip14)">
+        <g
+           id="g961"
+           clip-path="url(#clip15)">
+          <path
+             id="path955"
+             fill="#3A2A5C"
+             stroke-width="0.71875"
+             stroke="#3A2A5C"
+             d="M131.2 747.713C128.038 745.125 124.012 743.4 119.988 742.25 117.113 741.388 113.95 740.812 110.5 740.812 107.338 740.812 104.175 741.388 101.012 742.25 96.9875 743.4 92.9625 745.412 89.8 747.713 88.3625 748.862 87.5 750.588 87.5 752.312L87.5 763.812 133.5 763.812 133.5 752.312C133.5 750.588 132.637 748.862 131.2 747.713Z" />
+          <path
+             id="path957"
+             fill="#3A2A5C"
+             stroke-width="0.71875"
+             stroke="#3A2A5C"
+             d="M99.2875 716.662C99.7188 716.662 100.078 716.519 100.294 716.231L100.294 716.231C102.953 713.644 106.547 712.062 110.5 712.062 118.406 712.062 124.875 718.531 124.875 726.438L124.875 729.744 116.609 732.475C116.25 732.331 115.891 732.188 115.531 732.188 114.309 732.188 113.375 733.122 113.375 734.344 113.375 735.566 114.309 736.5 115.531 736.5 116.394 736.5 117.184 735.997 117.544 735.206L128.972 731.397C129.547 731.181 129.978 730.678 129.978 730.031L129.978 723.562C129.978 722.772 129.331 722.125 128.541 722.125L127.247 722.125C125.306 714.722 118.55 709.188 110.5 709.188 105.828 709.188 101.588 711.056 98.425 714.075 98.0656 714.362 97.85 714.722 97.85 715.225 97.85 716.016 98.4969 716.662 99.2875 716.662Z" />
+          <path
+             id="path959"
+             fill="#3A2A5C"
+             stroke-width="0.71875"
+             stroke="#3A2A5C"
+             d="M121.928 727.659C122 727.228 122 726.869 122 726.438 122 720.112 116.825 714.938 110.5 714.938 104.175 714.938 99 720.112 99 726.438 99 732.763 104.175 737.938 110.5 737.938 110.716 737.938 111.003 737.938 111.219 737.866L111.219 734.344 111.219 734.344C111.219 733.697 111.363 733.05 111.65 732.403 112.153 731.397 113.016 730.606 114.166 730.247L121.928 727.659Z" />
+        </g>
+      </g>
+    </g>
+    <path
+       id="path967"
+       fill="#3A2A5C"
+       d="M130.5 259.865 110.5 299.865 90.5 259.865Z" />
+    <path
+       id="path969"
+       fill="#3A2A5C"
+       d="M130.5 382.791 110.5 422.791 90.5 382.791Z" />
+    <path
+       id="path971"
+       fill="#3A2A5C"
+       d="M131.5 530.456 111.5 570.456 91.5 530.456Z" />
+    <path
+       id="path973"
+       transform="matrix(-1 0 0 1 112.245 659.5)"
+       fill="#3A2A5C"
+       d="M19.9124-4.43845 0.744777 35.967-20.079-3.61034Z" />
+    <text
+       id="text975"
+       transform="translate(172.151 202)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">Scammer audio</text>
+    <text
+       id="text977"
+       transform="translate(313.318 202)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">is</text>
+    <text
+       id="text979"
+       transform="translate(331.651 202)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">fed</text>
+    <text
+       id="text981"
+       transform="translate(364.818 202)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">from</text>
+    <text
+       id="text983"
+       transform="translate(411.945 202)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">our</text>
+    <text
+       id="text985"
+       transform="translate(447.278 202)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">Asterisk</text>
+    <text
+       id="text987"
+       transform="translate(520.945 202)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">server</text>
+    <text
+       id="text989"
+       transform="translate(580.278 202)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">to</text>
+    <text
+       id="text991"
+       transform="translate(603.111 202)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">our</text>
+    <text
+       id="text993"
+       transform="translate(172.151 224)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">bo</text>
+    <text
+       id="text995"
+       transform="translate(194.985 224)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">t</text>
+    <text
+       id="text997"
+       transform="translate(172.151 347)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">Our bot transcribes this audio in real time into text</text>
+    <text
+       id="text999"
+       transform="translate(166.818 472)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">Our bot creates a response based on what the</text>
+    <text
+       id="text1001"
+       transform="translate(166.818 494)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">scammer said</text>
+    <text
+       id="text1003"
+       transform="translate(173.929 610)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">This response is converted into life</text>
+    <text
+       id="text1005"
+       transform="translate(475.389 610)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">-</text>
+    <text
+       id="text1007"
+       transform="translate(481.389 610)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">like human</text>
+    <text
+       id="text1009"
+       transform="translate(173.929 632)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">speech</text>
+    <text
+       id="text1011"
+       transform="translate(166.818 743)"
+       font-size="19"
+       font-weight="400"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif">We send the response audio back to the scammer</text>
+    <text
+       id="text1013"
+       transform="translate(134.853 117)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">A</text>
+    <text
+       id="text1015"
+       transform="translate(155.02 117)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">rough</text>
+    <text
+       id="text1017"
+       transform="translate(222.926 117)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">overview</text>
+    <text
+       id="text1019"
+       transform="translate(324.906 117)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">of</text>
+    <text
+       id="text1021"
+       transform="translate(351.906 117)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">the</text>
+    <text
+       id="text1023"
+       transform="translate(393.406 117)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">process</text>
+    <text
+       id="text1025"
+       transform="translate(479.813 117)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">of</text>
+    <text
+       id="text1027"
+       transform="translate(506.813 117)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">our</text>
+    <text
+       id="text1029"
+       transform="translate(549.146 117)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">bot</text>
+    <text
+       id="text1031"
+       transform="translate(225.046 143)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">responding</text>
+    <text
+       id="text1033"
+       transform="translate(349.786 143)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">to</text>
+    <text
+       id="text1035"
+       transform="translate(377.786 143)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">a</text>
+    <text
+       id="text1037"
+       transform="translate(396.12 143)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">scamme</text>
+    <text
+       id="text1039"
+       transform="translate(485.286 143)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">r</text>
+    <text
+       id="text1041"
+       transform="translate(103.833 822)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">As long as the scammer is convinced our bot is a</text>
+    <text
+       id="text1043"
+       transform="translate(55.2131 848)"
+       font-size="21"
+       font-weight="700"
+       font-family="Open Sans,Open Sans_MSFontService,sans-serif"
+       fill="#3A2A5C">potential victim, our bot will keep the conversation going</text>
+  </g>
+</svg>
