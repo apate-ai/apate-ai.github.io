@@ -85,8 +85,7 @@
 }
 
 .u-section-1 .u-text-4 {
-  font-weight: 700;
-  margin: -101px 0 0;
+  margin: 16px 0 0;
 }
 
 .u-section-1 .u-image-2 {
@@ -94,7 +93,7 @@
   height: 202px;
   background-image: url("images/Dali1.jpg");
   background-position: 50% 50%;
-  margin: 16px auto 0;
+  margin: -101px auto 0;
 }
 
 .u-section-1 .u-text-5 {
@@ -500,7 +499,7 @@
 }
 
 .u-section-2 .u-text-4 {
-  margin: 20px auto -51px 20px;
+  margin: 16px 0 0;
 }
 
 .u-section-2 .u-layout-cell-2 {
