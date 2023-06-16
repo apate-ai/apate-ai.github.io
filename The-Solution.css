@@ -16,6 +16,11 @@
   margin: 0 auto;
 }
 
+.u-section-2 .centre {
+  /*margin: 0 auto;*/
+  text-align: center;
+}
+
 .u-section-2 .u-image-1 {
   width: 1154px;
   height: 601px;
