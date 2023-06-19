@@ -284,9 +284,9 @@
 }
 
 .u-section-3 .u-image-2 {
-  min-height: 394px;
-  background-image: url("images/scammer-angry1.png");
-  background-position: 50% 50%;
+  background-image: url("images/scammer2.png");
+  background-size: contain;
+  background-size: 70%;
 }
 
 .u-section-3 .u-container-layout-4 {
@@ -428,9 +428,9 @@
 }
 
 .u-section-4 .u-image-1 {
-  min-height: 449px;
-  background-image: url("images/old-man-purple1.png");
-  background-position: 50% 50%;
+  background-image: url("images/victim2.png");
+  background-size: contain;
+  background-size: 60%;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -580,9 +580,9 @@
 }
 
 .u-section-5 .u-image-1 {
-  min-height: 400px;
-  background-image: url("images/purplebot.png");
-  background-position: 50% 50%;
+  background-image: url("images/chatbot.png");
+  background-size: contain;
+  background-size: 60%;
 }
 
 .u-section-5 .u-container-layout-2 {
