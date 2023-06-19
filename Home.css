@@ -131,9 +131,10 @@
 }
 
 .u-section-2 .u-image-1 {
-  min-height: 400px;
+
   background-image: url("images/GreySimpleModernCreativeRocketInfographicChartGraph.png");
-  background-position: 50% 50%;
+     background-size: contain;
+  background-size: 80%;
 }
 
 .u-section-2 .u-container-layout-2 {
