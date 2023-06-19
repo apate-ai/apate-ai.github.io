@@ -420,7 +420,7 @@
 
 .u-section-4 .u-text-1 {
   font-size: 3rem;
-  margin: 50px 60px 0 590px;
+  margin: 50px 60px 0 400px;
 }
 
 .u-section-4 .u-layout-wrap-1 {
@@ -429,9 +429,9 @@
 }
 
 .u-section-4 .u-image-1 {
-  background-image: url("images/victim2.png");
+  background-image: url("images/victim4.png");
   background-size: contain;
-  background-size: 60%;
+  background-size: 80%;
 }
 
 .u-section-4 .u-container-layout-1 {
