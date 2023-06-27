@@ -1150,10 +1150,10 @@ a {
 .u-post-content > :last-child {
   margin-bottom: 0;
 }
+/*.u-post-content p */
 .u-block-content p,
 .u-product-desc p,
-.u-product-tab-pane p,
-.u-post-content p {
+.u-product-tab-pane p {
   text-decoration: inherit !important;
   color: inherit !important;
   font-style: inherit !important;

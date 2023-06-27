@@ -1,5 +1,10 @@
 .u-section-1 .u-sheet-1 {
   min-height: 835px;
+  color: #ffffff;
+}
+
+.u-post-content p {
+  color: #ffffff; !important;
 }
 
 .u-section-1 .u-post-details-1 {
@@ -17,6 +22,7 @@
   margin-top: 0;
   margin-bottom: 0;
   margin-left: 0;
+  background-color: #ffffff;
 }
 
 .u-section-1 .u-text-1 {
