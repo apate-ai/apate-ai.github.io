@@ -871,6 +871,11 @@
   }
 }
 
+.u-footer .u-image-1 {
+  background-size: contain;
+  background-size: 60%;
+}
+
 @media (max-width: 575px) {
   .u-section-7 .u-form-1 {
     width: 340px;
