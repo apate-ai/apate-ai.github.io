@@ -1,1 +1,1 @@
-Sitemap: https://softdash.jekylltemplate.com/sitemap.xml
+Sitemap: https://softdash.jekylltemplate.com/new-site/sitemap.xml
