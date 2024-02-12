@@ -1,611 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://softdash.jekylltemplate.com/new-site/feed.xml" rel="self" type="application/atom+xml" /><link href="https://softdash.jekylltemplate.com/new-site/" rel="alternate" type="text/html" /><updated>2024-02-01T22:08:01+00:00</updated><id>https://softdash.jekylltemplate.com/new-site/feed.xml</id><title type="html">Softdash - Creative SaaS And Software HTML5 Jekyll Template</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Motivation And Your Personal Vision An Force</title><link href="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-1/" rel="alternate" type="text/html" title="Motivation And Your Personal Vision An Force" /><published>2019-09-06T00:00:00+00:00</published><updated>2019-09-06T00:00:00+00:00</updated><id>https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force%201</id><content type="html" xml:base="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-1/">&lt;h1 id=&quot;me-amphissos&quot;&gt;Me Amphissos&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://softdash.jekylltemplate.com/new-site/feed.xml" rel="self" type="application/atom+xml" /><link href="https://softdash.jekylltemplate.com/new-site/" rel="alternate" type="text/html" /><updated>2024-02-12T11:53:04+11:00</updated><id>https://softdash.jekylltemplate.com/new-site/feed.xml</id><title type="html">Softdash - Creative SaaS And Software HTML5 Jekyll Template</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Chat Bot Innovation</title><link href="https://softdash.jekylltemplate.com/new-site/blog/chatbot-innovation/" rel="alternate" type="text/html" title="Chat Bot Innovation" /><published>2023-06-11T00:00:00+10:00</published><updated>2023-06-11T00:00:00+10:00</updated><id>https://softdash.jekylltemplate.com/new-site/blog/chatbot-innovation</id><content type="html" xml:base="https://softdash.jekylltemplate.com/new-site/blog/chatbot-innovation/">&lt;p&gt;A conversational bot able to conduct phone conversations requires 3 components: a speech to text module, a text based conversational AI bot and a text to speech module. In our pilot study, we found that commercial speech to text technology was highly accurate and reasonably priced. For text to speech, recent advances in the field [11] have enabled convincing speech generation that is difficult to distinguish from human speech. There have also been significant recent advances with conversational bots on multiple fronts. The fluency of generated text is also now difficult to differentiate from human authored text [12], [13], with the main recognisable difference being thematic and factual consistency. For conversational AI, this consistency has also been substantially improved [6]. One final innovation to complete the ability for AI bots to mimic scam victims is the addition of personas [14]. These allow the bots to maintain consistent knowledge of personal facts such as a name, address and aspects of a fictitious personal life. On reviewing each of these advances we believe they make the building blocks of a sufficiently convincing mimic of a vulnerable human scam victim. Open source pre-trained bots such as the ParlAI “BlenderBot” [7] already combine these advances and can be readily adapted to our purpose.&lt;/p&gt;
 
-&lt;h2 id=&quot;datque-creverunt-et-quota-iuvenum&quot;&gt;Datque creverunt et quota iuvenum&lt;/h2&gt;
+&lt;p&gt;Voice cloning is a type of “deep fake” consisting of deep learning AI models that generate speech audio that sounds like a given person from text inputs. The person whose voice is being cloned provides recordings of their voice which are used to train the AI model. Once sufficiently trained, arbitrary text can be provided to the model, and it will “speak” the text in the person’s voice. It is further possible to make variations on the voice to change e.g.: the apparent age and gender of the generated voice and modulate expressed emotion. Numerous publicly available “voice clones” exist and there are many commercially available voice clones and services in addition (e.g.: resemble.ai, ). In addition we will recruit volunteers to produce voice clones, which we will modify for a level of privacy protection and will explore voice clones from publicly available voice recordings. We expect to obtain at least 20 base voices, each with multiple variations. These voice clones and their variations will be one of the call duration optimization targets for our bots.&lt;/p&gt;
 
-&lt;p&gt;Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
-nec flectitur; circumfert. Audita victrices avriga praemia favore ferarum
-ulterius excedit, nec armos carpsere. Et excutit caligine progenies pariente
-sibi quis, aethere, filia! Papilione &lt;em&gt;medium Hippotadae refert&lt;/em&gt; ad culpae
-tristia, iuncta placidi o gratamque mitia, fuerat procorum placet nomine
-pennisque vocibus?&lt;/p&gt;
+&lt;p&gt;Conversational AI: At the core of our bots we will use conversational AI models built around large pre-trained sequence to sequence models such as BART [13], T5 [11], [12] or GPT [15], [16]. These models achieve very good fluency and have many variations available as open source tools (BART, T5 and GPT-2) or paid services (GPT-3). We will explore innovations built around these models such as improved short term memory [6], personas and empathy [14], [17]. We will further innovate with novel approaches to and combinations of these methods inspired by and tailored to our use case. These will be evaluated in controlled experiments (Task 3) as well as through analysis of actual scam calls “in the wild” (Task 1) in a virtuous cycle of innovation, tuning and deployment.&lt;/p&gt;
 
-&lt;p&gt;Solum &lt;strong&gt;iuvencos&lt;/strong&gt;, ibi propulit alumno: et me annis. Torreri &lt;a href=&quot;http://requiram-verbisque.io/&quot;&gt;est dari
-hostem&lt;/a&gt; gulae, natura illi penates pocula
-mortales; et arva! Crescit et praebet dubio, Martem, nam sorori illis. Concolor
-adimit, aptarique reformet, propioraque habebat fugit Polyphemon levemus,
-colloque si rediret revulsum praestantior grave ardua narratibus.&lt;/p&gt;
+&lt;p&gt;Fine tuning on conversation data such as scam call transcripts is a standard approach for domain adaptation of pre-trained conversational AI models that has been shown to be effective [18]. Our case presents novel challenges to fine-tuning due to long call durations (pilot data averaged 86 utterances) and the adversarial nature of our task (we are not seeking quality effective conversation, but to prolong the conversation irrespective of conversational quality).&lt;/p&gt;
 
-&lt;h2 id=&quot;sua-nentes-tum-anum&quot;&gt;Sua nentes tum anum&lt;/h2&gt;
+&lt;p&gt;Once “wild” data from calls with real scammers is available, a second form of training becomes possible. Our primary goal is for our bots to achieve long call durations with real scammers. We can use the duration of a “wild” call (one with a real scammer) as a reinforcement learning (RL) training objective [19], [20] with a small positive reward for each utterance and a large negative reward when the scammer hangs up. Annotations from Tasks 1 and 3 that relate directly to longer call durations may also be used as RL training objectives.&lt;/p&gt;
 
-&lt;p&gt;Suo copia recisum triones, nunc fessos aliisque, lapides hortaturque Hectoreis
-illius. Protinus furit, voluntas arcitenens dictos, &lt;em&gt;et eundem&lt;/em&gt;, utque suique
-stagni factique.&lt;/p&gt;
+&lt;p&gt;Our analysis of scam call data together with background knowledge of scammer methodologies and the psychology of persuasion provide further training targets. In particular, features associated with scammer script steps and those expected or found to be associated with ending or extending a call such as scammers’ negative emotion and threats. These would be incorporated into training as side tasks in addition to the main fine-tuning task. The intuition here is that a model that is able to distil the knowledge necessary to predict call features associated with longer “wild” call durations will be equipped to recognise model updates that are effective for achieving longer calls. It is well established in the literature that transfer learning through training on multiple related tasks is beneficial. There are several architectures that can be explored for implementing side tasks such as predicting from the last hidden layers of the underlying transformer or from the RL action space as used in [19], or the K-adapter framework [21].&lt;/p&gt;
 
-&lt;p&gt;Precor &lt;em&gt;credita hiemalibus cruorem&lt;/em&gt; in digitis nubes femina iuva, hoc curam.
-Temeraria sperabam et parte. Viribus refugerat quibus; imbres undis dolore, est
-quamvis. Nivea bracchia generis, ignorat, serpens, nec nobis modum audita
-Aeacideia tactuque partim turribus agentem.&lt;/p&gt;
+&lt;p&gt;REFERENCES:&lt;/p&gt;
 
-&lt;h2 id=&quot;pares-sui-repulsus-causa&quot;&gt;Pares sui repulsus causa&lt;/h2&gt;
+&lt;p&gt;[6]    J. Xu, A. Szlam, and J. Weston, ‘Beyond Goldfish Memory: Long-Term Open-Domain Conversation’, ArXiv210707567 Cs, Jul. 2021, Accessed: Jul. 20, 2021. [Online]. Available: http://arxiv.org/abs/2107.07567&lt;/p&gt;
 
-&lt;p&gt;Mecum ego mutant colubris ad petatur forma relicto antro conplexus placet
-ingenium &lt;strong&gt;spernentem&lt;/strong&gt;: cultu videbar Iovis spatium, frontem. Venere naides
-Hypaepis huic? Tamen sit &lt;a href=&quot;http://www.quondam-tria.com/&quot;&gt;neve iacui&lt;/a&gt; ne relictum
-attolle. Laude ira et adveniet lumen quoque supplevit fecundus obsequio tendi si
-metus, parentem tanto concussaque procellae demens malorum. Aequor pars &lt;strong&gt;dies&lt;/strong&gt;
-imitatur turbantes freta plena rogati insidiosa Medusae &lt;strong&gt;nempe&lt;/strong&gt; nec vulnera
-per Athin in non.&lt;/p&gt;
+&lt;p&gt;[7]    ‘Blender Bot 2.0: An open source chatbot that builds long-term memory and searches the internet’. https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet/ (accessed Nov. 25, 2021).&lt;/p&gt;
 
-&lt;h2 id=&quot;manu-prius-retentas-paterque&quot;&gt;Manu prius retentas paterque&lt;/h2&gt;
+&lt;p&gt;[11]    J. Ao et al., ‘SpeechT5: Unified-Modal Encoder-Decoder Pre-training for Spoken Language Processing’, ArXiv211007205 Cs Eess, Oct. 2021, Accessed: Nov. 15, 2021. [Online]. Available: http://arxiv.org/abs/2110.07205&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://tuatantalus.io/&quot;&gt;Scopulos dissimiles praesens&lt;/a&gt; latus, miserabile conlato
-est albis delubraque latus pastoria colentibus puppim locuti. Arida donec non
-tulisti nunc.&lt;/p&gt;
+&lt;p&gt;[12]    C. Raffel et al., ‘Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer’, J. Mach. Learn. Res., vol. 21, no. 140, pp. 1–67, 2020.&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if (mainframe.webmasterStatusMountain(731737)) {
-    cable += -4;
-} else {
-    executable_soft.safeStateActivex.router(del_pda_favorites);
-    ctp = metafile(-1 * aspInputHalftone);
-    spyware_nic.graymail_torrent = operating;
-}
-if (coreFlashUltra * facebook) {
-    retina = opengl_metadata / waveform_keystroke + constant_zone_hacker;
-    irc_gigahertz -= raw_pad_drive + stationDimm;
-}
-soaAddress = bps_dialog;
-var reader_url_perl = 26;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;[13]    M. Lewis et al., ‘BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension’, in Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, Online, Jul. 2020, pp. 7871–7880. doi: 10.18653/v1/2020.acl-main.703.&lt;/p&gt;
 
-&lt;p&gt;Dimittite usurus deserto. O petunt socerumque regnare, me spina: mihi
-&lt;strong&gt;cunctatusque plena&lt;/strong&gt;. Campus adstitit tendebant opesque. &lt;em&gt;Sibi&lt;/em&gt; alios
-adgreditur inque spectabat faceret iterum hominumque quamvis portentificisque.&lt;/p&gt;</content><author><name></name></author><category term="Art &amp; Fantacy" /><summary type="html">Me Amphissos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://softdash.jekylltemplate.com/new-site/img/blog/p2.jpg" /><media:content medium="image" url="https://softdash.jekylltemplate.com/new-site/img/blog/p2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Motivation And Your Personal Vision An Force</title><link href="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-2/" rel="alternate" type="text/html" title="Motivation And Your Personal Vision An Force" /><published>2019-09-06T00:00:00+00:00</published><updated>2019-09-06T00:00:00+00:00</updated><id>https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force%202</id><content type="html" xml:base="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-2/">&lt;h1 id=&quot;me-amphissos&quot;&gt;Me Amphissos&lt;/h1&gt;
+&lt;p&gt;[14]    H. Song, Y. Wang, K. Zhang, W.-N. Zhang, and T. Liu, ‘BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data’, ArXiv210606169 Cs, Jun. 2021, Accessed: Jul. 29, 2021. [Online]. Available: http://arxiv.org/abs/2106.06169&lt;/p&gt;
 
-&lt;h2 id=&quot;datque-creverunt-et-quota-iuvenum&quot;&gt;Datque creverunt et quota iuvenum&lt;/h2&gt;
+&lt;p&gt;[15]    T. Brown et al., ‘Language Models are Few-Shot Learners’, in Advances in Neural Information Processing Systems, 2020, vol. 33, pp. 1877–1901. [Online]. Available: https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf&lt;/p&gt;
 
-&lt;p&gt;Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
-nec flectitur; circumfert. Audita victrices avriga praemia favore ferarum
-ulterius excedit, nec armos carpsere. Et excutit caligine progenies pariente
-sibi quis, aethere, filia! Papilione &lt;em&gt;medium Hippotadae refert&lt;/em&gt; ad culpae
-tristia, iuncta placidi o gratamque mitia, fuerat procorum placet nomine
-pennisque vocibus?&lt;/p&gt;
+&lt;p&gt;[16]    A. Radford, J. Wu, R. Child, D. Luan, D. Amodei, and I. Sutskever, ‘Language Models are Unsupervised Multitask Learners’, p. 24, 2019.&lt;/p&gt;
 
-&lt;p&gt;Solum &lt;strong&gt;iuvencos&lt;/strong&gt;, ibi propulit alumno: et me annis. Torreri &lt;a href=&quot;http://requiram-verbisque.io/&quot;&gt;est dari
-hostem&lt;/a&gt; gulae, natura illi penates pocula
-mortales; et arva! Crescit et praebet dubio, Martem, nam sorori illis. Concolor
-adimit, aptarique reformet, propioraque habebat fugit Polyphemon levemus,
-colloque si rediret revulsum praestantior grave ardua narratibus.&lt;/p&gt;
+&lt;p&gt;[17]    K. Shuster, D. Ju, S. Roller, E. Dinan, Y.-L. Boureau, and J. Weston, ‘The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents’, in Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, Online, Jul. 2020, pp. 2453–2470. doi: 10.18653/v1/2020.acl-main.222.&lt;/p&gt;
 
-&lt;h2 id=&quot;sua-nentes-tum-anum&quot;&gt;Sua nentes tum anum&lt;/h2&gt;
+&lt;p&gt;[18]    S. Roller et al., ‘Recipes for Building an Open-Domain Chatbot’, in Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, Online, Apr. 2021, pp. 300–325. Accessed: Jul. 18, 2021. [Online]. Available: https://aclanthology.org/2021.eacl-main.24&lt;/p&gt;
 
-&lt;p&gt;Suo copia recisum triones, nunc fessos aliisque, lapides hortaturque Hectoreis
-illius. Protinus furit, voluntas arcitenens dictos, &lt;em&gt;et eundem&lt;/em&gt;, utque suique
-stagni factique.&lt;/p&gt;
+&lt;p&gt;[19]    T. Zhao, K. Xie, and M. Eskenazi, ‘Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog Agents with Latent Variable Models’, in Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), Minneapolis, Minnesota, Jun. 2019, pp. 1208–1218. doi: 10.18653/v1/N19-1123.&lt;/p&gt;
 
-&lt;p&gt;Precor &lt;em&gt;credita hiemalibus cruorem&lt;/em&gt; in digitis nubes femina iuva, hoc curam.
-Temeraria sperabam et parte. Viribus refugerat quibus; imbres undis dolore, est
-quamvis. Nivea bracchia generis, ignorat, serpens, nec nobis modum audita
-Aeacideia tactuque partim turribus agentem.&lt;/p&gt;
+&lt;p&gt;[20]    J. Li, W. Monroe, A. Ritter, M. Galley, J. Gao, and D. Jurafsky, ‘Deep Reinforcement Learning for Dialogue Generation’, in Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, Austin, Texas, Nov. 2016, pp. 1192–1202. doi: 10.18653/v1/D16-1127.&lt;/p&gt;
 
-&lt;h2 id=&quot;pares-sui-repulsus-causa&quot;&gt;Pares sui repulsus causa&lt;/h2&gt;
+&lt;p&gt;[21]    R. Wang et al., ‘K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters’, in Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, Online: Association for Computational Linguistics, Aug. 2021, pp. 1405–1418. doi: 10.18653/v1/2021.findings-acl.121.&lt;/p&gt;</content><author><name></name></author><category term="Research" /><summary type="html">A conversational bot able to conduct phone conversations requires 3 components: a speech to text module, a text based conversational AI bot and a text to speech module. In our pilot study, we found that commercial speech to text technology was highly accurate and reasonably priced. For text to speech, recent advances in the field [11] have enabled convincing speech generation that is difficult to distinguish from human speech. There have also been significant recent advances with conversational bots on multiple fronts. The fluency of generated text is also now difficult to differentiate from human authored text [12], [13], with the main recognisable difference being thematic and factual consistency. For conversational AI, this consistency has also been substantially improved [6]. One final innovation to complete the ability for AI bots to mimic scam victims is the addition of personas [14]. These allow the bots to maintain consistent knowledge of personal facts such as a name, address and aspects of a fictitious personal life. On reviewing each of these advances we believe they make the building blocks of a sufficiently convincing mimic of a vulnerable human scam victim. Open source pre-trained bots such as the ParlAI “BlenderBot” [7] already combine these advances and can be readily adapted to our purpose.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://softdash.jekylltemplate.com/new-site/img/blog/chatbot-innovation.png" /><media:content medium="image" url="https://softdash.jekylltemplate.com/new-site/img/blog/chatbot-innovation.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Giving scammers a run for their money</title><link href="https://softdash.jekylltemplate.com/new-site/blog/give-scammers-a-run-for-their-money/" rel="alternate" type="text/html" title="Giving scammers a run for their money" /><published>2023-06-11T00:00:00+10:00</published><updated>2023-06-11T00:00:00+10:00</updated><id>https://softdash.jekylltemplate.com/new-site/blog/give-scammers-a-run-for-their-money</id><content type="html" xml:base="https://softdash.jekylltemplate.com/new-site/blog/give-scammers-a-run-for-their-money/">&lt;p&gt;Traditionally a trusted communication channel, phone calls are becoming increasingly abused by spammers and scammers in recent years [1], [2]. Phone scams remain a difficult problem to tackle due to the combination of protocol limitations, legal enforcement challenges and advances in technology that enable attackers to hide their identities and reduce costs. Scammers use social engineering techniques to manipulate victims into revealing their personal details, purchasing online vouchers or transferring funds to attacker controlled accounts [3]. This has led to an estimated $400 million in losses to Australians in 2020 alone! [4]. The problem is not limited to the public sphere and there is a growing number of scam calls directed at corporate call centres [4], [5].&lt;/p&gt;
 
-&lt;p&gt;Mecum ego mutant colubris ad petatur forma relicto antro conplexus placet
-ingenium &lt;strong&gt;spernentem&lt;/strong&gt;: cultu videbar Iovis spatium, frontem. Venere naides
-Hypaepis huic? Tamen sit &lt;a href=&quot;http://www.quondam-tria.com/&quot;&gt;neve iacui&lt;/a&gt; ne relictum
-attolle. Laude ira et adveniet lumen quoque supplevit fecundus obsequio tendi si
-metus, parentem tanto concussaque procellae demens malorum. Aequor pars &lt;strong&gt;dies&lt;/strong&gt;
-imitatur turbantes freta plena rogati insidiosa Medusae &lt;strong&gt;nempe&lt;/strong&gt; nec vulnera
-per Athin in non.&lt;/p&gt;
+&lt;p&gt;Currently the only strategies used to fight public phone scams are simple heuristics used by telecommunication service providers to filter scam calls at the exchange and advice to the public to be wary of unsolicited calls. Neither of these approaches is effective, so that scam calls continue to be a significant public menace. Apate presents a novel approach to defeat phone scam operators through breaking their business model and making their operations unprofitable. This is achieved through the development of conversational AI bots that present as a convincing potentially viable scam victim. To this end, Apate is:&lt;/p&gt;
 
-&lt;h2 id=&quot;manu-prius-retentas-paterque&quot;&gt;Manu prius retentas paterque&lt;/h2&gt;
+&lt;p&gt;Researching scammer methods and techniques through analysis of collected scam call data.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://tuatantalus.io/&quot;&gt;Scopulos dissimiles praesens&lt;/a&gt; latus, miserabile conlato
-est albis delubraque latus pastoria colentibus puppim locuti. Arida donec non
-tulisti nunc.&lt;/p&gt;
+&lt;p&gt;Building conversational AI bots capable of keeping real scammers on the line for a considerable period of time.&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if (mainframe.webmasterStatusMountain(731737)) {
-    cable += -4;
-} else {
-    executable_soft.safeStateActivex.router(del_pda_favorites);
-    ctp = metafile(-1 * aspInputHalftone);
-    spyware_nic.graymail_torrent = operating;
-}
-if (coreFlashUltra * facebook) {
-    retina = opengl_metadata / waveform_keystroke + constant_zone_hacker;
-    irc_gigahertz -= raw_pad_drive + stationDimm;
-}
-soaAddress = bps_dialog;
-var reader_url_perl = 26;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Developing improved scam detection both at the exchange as well as detection early in a call (integrated into a mobile phone app) through collection and analysis of large scale scam call data.&lt;/p&gt;
 
-&lt;p&gt;Dimittite usurus deserto. O petunt socerumque regnare, me spina: mihi
-&lt;strong&gt;cunctatusque plena&lt;/strong&gt;. Campus adstitit tendebant opesque. &lt;em&gt;Sibi&lt;/em&gt; alios
-adgreditur inque spectabat faceret iterum hominumque quamvis portentificisque.&lt;/p&gt;</content><author><name></name></author><category term="Art &amp; Fantacy" /><summary type="html">Me Amphissos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://softdash.jekylltemplate.com/new-site/img/blog/p3.jpg" /><media:content medium="image" url="https://softdash.jekylltemplate.com/new-site/img/blog/p3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Motivation And Your Personal Vision An Force</title><link href="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-4/" rel="alternate" type="text/html" title="Motivation And Your Personal Vision An Force" /><published>2019-09-06T00:00:00+00:00</published><updated>2019-09-06T00:00:00+00:00</updated><id>https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force%204</id><content type="html" xml:base="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-4/">&lt;h1 id=&quot;me-amphissos&quot;&gt;Me Amphissos&lt;/h1&gt;
+&lt;p&gt;Developing 3 practical methods to deploy the bots: a telephony honeypot (a collection of phone numbers that connect directly to a bot), redirection of scam calls detected at the exchange, and a mobile app whereby users can redirect scam calls to the bots.&lt;/p&gt;
 
-&lt;h2 id=&quot;datque-creverunt-et-quota-iuvenum&quot;&gt;Datque creverunt et quota iuvenum&lt;/h2&gt;
+&lt;p&gt;The core of our innovation is the development of conversational AI bots that are capable of fooling scammers into thinking they are talking to viable scam victims, hence causing them to spend time attempting to scam the bots.&lt;/p&gt;
 
-&lt;p&gt;Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
-nec flectitur; circumfert. Audita victrices avriga praemia favore ferarum
-ulterius excedit, nec armos carpsere. Et excutit caligine progenies pariente
-sibi quis, aethere, filia! Papilione &lt;em&gt;medium Hippotadae refert&lt;/em&gt; ad culpae
-tristia, iuncta placidi o gratamque mitia, fuerat procorum placet nomine
-pennisque vocibus?&lt;/p&gt;
+&lt;p&gt;Recent advances in Natural Language Processing (NLP) and conversational AI in particular have led to AI agents capable of fluent speech, adopting personas and tracking within conversation information. Recent advances in voice generation technologies have enabled convincing “voice cloning” that is hard to distinguish from real voices. Together, these advances now provide the ability for a bot to conduct conversations over the phone and appear convincingly as a human interlocutor.&lt;/p&gt;
 
-&lt;p&gt;Solum &lt;strong&gt;iuvencos&lt;/strong&gt;, ibi propulit alumno: et me annis. Torreri &lt;a href=&quot;http://requiram-verbisque.io/&quot;&gt;est dari
-hostem&lt;/a&gt; gulae, natura illi penates pocula
-mortales; et arva! Crescit et praebet dubio, Martem, nam sorori illis. Concolor
-adimit, aptarique reformet, propioraque habebat fugit Polyphemon levemus,
-colloque si rediret revulsum praestantior grave ardua narratibus.&lt;/p&gt;
+&lt;p&gt;Such bots can often be quickly identified as non-human in normal conversation due largely to their limited ability to track conversational context, despite recent advances that have dramatically improved this ability [6], [7]. This is mitigated by the motivation of the scammer to pursue a victim until payment (so long as they have a suspicion that it is not a bot, they will likely stay on the line) and the fact that many of the truly vulnerable are easily confused by complex processes, which is similar to the way bots may appear if they fail to properly integrate and respond to information provided by the scammer. This is evidenced by “Lenny”, a simple bot consisting only of pre-recorded phrases that play in a loop irrespective of the words of the scammer. Lenny was able to achieve an average call length of around 5 minutes over 20,000 calls with scammers [8].&lt;/p&gt;
 
-&lt;h2 id=&quot;sua-nentes-tum-anum&quot;&gt;Sua nentes tum anum&lt;/h2&gt;
+&lt;p&gt;With scale, our bots will dilute the market and leave no room for scammers to steal from legitimate victims. What’s a scammer got to do when nine tenths of their calls lead to talking to a bot for 10 minutes?
+Less successful scams = less scammers&lt;/p&gt;</content><author><name></name></author><category term="Research" /><summary type="html">Traditionally a trusted communication channel, phone calls are becoming increasingly abused by spammers and scammers in recent years [1], [2]. Phone scams remain a difficult problem to tackle due to the combination of protocol limitations, legal enforcement challenges and advances in technology that enable attackers to hide their identities and reduce costs. Scammers use social engineering techniques to manipulate victims into revealing their personal details, purchasing online vouchers or transferring funds to attacker controlled accounts [3]. This has led to an estimated $400 million in losses to Australians in 2020 alone! [4]. The problem is not limited to the public sphere and there is a growing number of scam calls directed at corporate call centres [4], [5].</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://softdash.jekylltemplate.com/new-site/img/blog/giving-scammers-run-for-their-money.png" /><media:content medium="image" url="https://softdash.jekylltemplate.com/new-site/img/blog/giving-scammers-run-for-their-money.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Understanding Scam Strategies</title><link href="https://softdash.jekylltemplate.com/new-site/blog/understanding-scam-strategies/" rel="alternate" type="text/html" title="Understanding Scam Strategies" /><published>2023-06-11T00:00:00+10:00</published><updated>2023-06-11T00:00:00+10:00</updated><id>https://softdash.jekylltemplate.com/new-site/blog/understanding-scam-strategies</id><content type="html" xml:base="https://softdash.jekylltemplate.com/new-site/blog/understanding-scam-strategies/">&lt;p&gt;Developing an ideal victim bot requires a deep understanding of scammer strategies and behaviours. Through analysis of scam baiter data, we have developed algorithms and tools that tease apart patterns in scammer utterances through a call, allowing the recognition and extraction scam script stages and identification of scammer behaviours assocaited with their social engineering techniques. These insights will be incorporated into our bot training, providing more appropraite bot responses and allowing the tuning of the bots attempts to do social engineering on the scammer: using tricks of persuasion to fool scammers into believing they have a viable, even lucrative victim and convincing them to stay on the line.&lt;/p&gt;
 
-&lt;p&gt;Suo copia recisum triones, nunc fessos aliisque, lapides hortaturque Hectoreis
-illius. Protinus furit, voluntas arcitenens dictos, &lt;em&gt;et eundem&lt;/em&gt;, utque suique
-stagni factique.&lt;/p&gt;
+&lt;p&gt;We analysed 341 conversations between scammers and scam baiters sourced from YouTube. We wished to determine the feasibility of extracting useful information on scam strategies and scam scripts with a largely automated process. Through combination of state of the art topic modelling [1] and hidden Markov models for time sequence modeling we successfully extracted meaningful scam progression sequences that match observations from close reading and appear to represent scripts followed by scammers.&lt;/p&gt;
 
-&lt;p&gt;Precor &lt;em&gt;credita hiemalibus cruorem&lt;/em&gt; in digitis nubes femina iuva, hoc curam.
-Temeraria sperabam et parte. Viribus refugerat quibus; imbres undis dolore, est
-quamvis. Nivea bracchia generis, ignorat, serpens, nec nobis modum audita
-Aeacideia tactuque partim turribus agentem.&lt;/p&gt;
+&lt;p&gt;Below is the state transition graph we extracted from “refund” scams. We can see that the scam starts with greetings and an introduction to the scam scenario: there has been a substantial purchase on the victims’ amazon account and the scammer is calling to check that it was a bona-fide purchase from the victim. The scammer explains that the victim should install “security software” and proceeds with the next steps in the script: check that the victim is in front of their computer or using a smart phone, direct the victim to the “teamviewer” download page (teamviewer is a remote desktop application with which the scammer can view the victims screen and control the victims computer), direct them to install teamviewer. At this stage the scammer is ready to make their move. They direct the victim to access their bank account in order to receive the refund, and in the process obtain login credentials.&lt;/p&gt;
 
-&lt;h2 id=&quot;pares-sui-repulsus-causa&quot;&gt;Pares sui repulsus causa&lt;/h2&gt;
-
-&lt;p&gt;Mecum ego mutant colubris ad petatur forma relicto antro conplexus placet
-ingenium &lt;strong&gt;spernentem&lt;/strong&gt;: cultu videbar Iovis spatium, frontem. Venere naides
-Hypaepis huic? Tamen sit &lt;a href=&quot;http://www.quondam-tria.com/&quot;&gt;neve iacui&lt;/a&gt; ne relictum
-attolle. Laude ira et adveniet lumen quoque supplevit fecundus obsequio tendi si
-metus, parentem tanto concussaque procellae demens malorum. Aequor pars &lt;strong&gt;dies&lt;/strong&gt;
-imitatur turbantes freta plena rogati insidiosa Medusae &lt;strong&gt;nempe&lt;/strong&gt; nec vulnera
-per Athin in non.&lt;/p&gt;
-
-&lt;h2 id=&quot;manu-prius-retentas-paterque&quot;&gt;Manu prius retentas paterque&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://tuatantalus.io/&quot;&gt;Scopulos dissimiles praesens&lt;/a&gt; latus, miserabile conlato
-est albis delubraque latus pastoria colentibus puppim locuti. Arida donec non
-tulisti nunc.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if (mainframe.webmasterStatusMountain(731737)) {
-    cable += -4;
-} else {
-    executable_soft.safeStateActivex.router(del_pda_favorites);
-    ctp = metafile(-1 * aspInputHalftone);
-    spyware_nic.graymail_torrent = operating;
-}
-if (coreFlashUltra * facebook) {
-    retina = opengl_metadata / waveform_keystroke + constant_zone_hacker;
-    irc_gigahertz -= raw_pad_drive + stationDimm;
-}
-soaAddress = bps_dialog;
-var reader_url_perl = 26;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Dimittite usurus deserto. O petunt socerumque regnare, me spina: mihi
-&lt;strong&gt;cunctatusque plena&lt;/strong&gt;. Campus adstitit tendebant opesque. &lt;em&gt;Sibi&lt;/em&gt; alios
-adgreditur inque spectabat faceret iterum hominumque quamvis portentificisque.&lt;/p&gt;</content><author><name></name></author><category term="Art &amp; Fantacy" /><summary type="html">Me Amphissos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://softdash.jekylltemplate.com/new-site/img/blog/p4.jpg" /><media:content medium="image" url="https://softdash.jekylltemplate.com/new-site/img/blog/p4.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Motivation And Your Personal Vision An Force</title><link href="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-5/" rel="alternate" type="text/html" title="Motivation And Your Personal Vision An Force" /><published>2019-09-06T00:00:00+00:00</published><updated>2019-09-06T00:00:00+00:00</updated><id>https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force%205</id><content type="html" xml:base="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-5/">&lt;h1 id=&quot;me-amphissos&quot;&gt;Me Amphissos&lt;/h1&gt;
-
-&lt;h2 id=&quot;datque-creverunt-et-quota-iuvenum&quot;&gt;Datque creverunt et quota iuvenum&lt;/h2&gt;
-
-&lt;p&gt;Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
-nec flectitur; circumfert. Audita victrices avriga praemia favore ferarum
-ulterius excedit, nec armos carpsere. Et excutit caligine progenies pariente
-sibi quis, aethere, filia! Papilione &lt;em&gt;medium Hippotadae refert&lt;/em&gt; ad culpae
-tristia, iuncta placidi o gratamque mitia, fuerat procorum placet nomine
-pennisque vocibus?&lt;/p&gt;
-
-&lt;p&gt;Solum &lt;strong&gt;iuvencos&lt;/strong&gt;, ibi propulit alumno: et me annis. Torreri &lt;a href=&quot;http://requiram-verbisque.io/&quot;&gt;est dari
-hostem&lt;/a&gt; gulae, natura illi penates pocula
-mortales; et arva! Crescit et praebet dubio, Martem, nam sorori illis. Concolor
-adimit, aptarique reformet, propioraque habebat fugit Polyphemon levemus,
-colloque si rediret revulsum praestantior grave ardua narratibus.&lt;/p&gt;
-
-&lt;h2 id=&quot;sua-nentes-tum-anum&quot;&gt;Sua nentes tum anum&lt;/h2&gt;
-
-&lt;p&gt;Suo copia recisum triones, nunc fessos aliisque, lapides hortaturque Hectoreis
-illius. Protinus furit, voluntas arcitenens dictos, &lt;em&gt;et eundem&lt;/em&gt;, utque suique
-stagni factique.&lt;/p&gt;
-
-&lt;p&gt;Precor &lt;em&gt;credita hiemalibus cruorem&lt;/em&gt; in digitis nubes femina iuva, hoc curam.
-Temeraria sperabam et parte. Viribus refugerat quibus; imbres undis dolore, est
-quamvis. Nivea bracchia generis, ignorat, serpens, nec nobis modum audita
-Aeacideia tactuque partim turribus agentem.&lt;/p&gt;
-
-&lt;h2 id=&quot;pares-sui-repulsus-causa&quot;&gt;Pares sui repulsus causa&lt;/h2&gt;
-
-&lt;p&gt;Mecum ego mutant colubris ad petatur forma relicto antro conplexus placet
-ingenium &lt;strong&gt;spernentem&lt;/strong&gt;: cultu videbar Iovis spatium, frontem. Venere naides
-Hypaepis huic? Tamen sit &lt;a href=&quot;http://www.quondam-tria.com/&quot;&gt;neve iacui&lt;/a&gt; ne relictum
-attolle. Laude ira et adveniet lumen quoque supplevit fecundus obsequio tendi si
-metus, parentem tanto concussaque procellae demens malorum. Aequor pars &lt;strong&gt;dies&lt;/strong&gt;
-imitatur turbantes freta plena rogati insidiosa Medusae &lt;strong&gt;nempe&lt;/strong&gt; nec vulnera
-per Athin in non.&lt;/p&gt;
-
-&lt;h2 id=&quot;manu-prius-retentas-paterque&quot;&gt;Manu prius retentas paterque&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://tuatantalus.io/&quot;&gt;Scopulos dissimiles praesens&lt;/a&gt; latus, miserabile conlato
-est albis delubraque latus pastoria colentibus puppim locuti. Arida donec non
-tulisti nunc.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if (mainframe.webmasterStatusMountain(731737)) {
-    cable += -4;
-} else {
-    executable_soft.safeStateActivex.router(del_pda_favorites);
-    ctp = metafile(-1 * aspInputHalftone);
-    spyware_nic.graymail_torrent = operating;
-}
-if (coreFlashUltra * facebook) {
-    retina = opengl_metadata / waveform_keystroke + constant_zone_hacker;
-    irc_gigahertz -= raw_pad_drive + stationDimm;
-}
-soaAddress = bps_dialog;
-var reader_url_perl = 26;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Dimittite usurus deserto. O petunt socerumque regnare, me spina: mihi
-&lt;strong&gt;cunctatusque plena&lt;/strong&gt;. Campus adstitit tendebant opesque. &lt;em&gt;Sibi&lt;/em&gt; alios
-adgreditur inque spectabat faceret iterum hominumque quamvis portentificisque.&lt;/p&gt;</content><author><name></name></author><summary type="html">Me Amphissos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://softdash.jekylltemplate.com/new-site/img/blog/p5.jpg" /><media:content medium="image" url="https://softdash.jekylltemplate.com/new-site/img/blog/p5.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Motivation And Your Personal Vision An Force</title><link href="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-6/" rel="alternate" type="text/html" title="Motivation And Your Personal Vision An Force" /><published>2019-09-06T00:00:00+00:00</published><updated>2019-09-06T00:00:00+00:00</updated><id>https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force%206</id><content type="html" xml:base="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-6/">&lt;h1 id=&quot;me-amphissos&quot;&gt;Me Amphissos&lt;/h1&gt;
-
-&lt;h2 id=&quot;datque-creverunt-et-quota-iuvenum&quot;&gt;Datque creverunt et quota iuvenum&lt;/h2&gt;
-
-&lt;p&gt;Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
-nec flectitur; circumfert. Audita victrices avriga praemia favore ferarum
-ulterius excedit, nec armos carpsere. Et excutit caligine progenies pariente
-sibi quis, aethere, filia! Papilione &lt;em&gt;medium Hippotadae refert&lt;/em&gt; ad culpae
-tristia, iuncta placidi o gratamque mitia, fuerat procorum placet nomine
-pennisque vocibus?&lt;/p&gt;
-
-&lt;p&gt;Solum &lt;strong&gt;iuvencos&lt;/strong&gt;, ibi propulit alumno: et me annis. Torreri &lt;a href=&quot;http://requiram-verbisque.io/&quot;&gt;est dari
-hostem&lt;/a&gt; gulae, natura illi penates pocula
-mortales; et arva! Crescit et praebet dubio, Martem, nam sorori illis. Concolor
-adimit, aptarique reformet, propioraque habebat fugit Polyphemon levemus,
-colloque si rediret revulsum praestantior grave ardua narratibus.&lt;/p&gt;
-
-&lt;h2 id=&quot;sua-nentes-tum-anum&quot;&gt;Sua nentes tum anum&lt;/h2&gt;
-
-&lt;p&gt;Suo copia recisum triones, nunc fessos aliisque, lapides hortaturque Hectoreis
-illius. Protinus furit, voluntas arcitenens dictos, &lt;em&gt;et eundem&lt;/em&gt;, utque suique
-stagni factique.&lt;/p&gt;
-
-&lt;p&gt;Precor &lt;em&gt;credita hiemalibus cruorem&lt;/em&gt; in digitis nubes femina iuva, hoc curam.
-Temeraria sperabam et parte. Viribus refugerat quibus; imbres undis dolore, est
-quamvis. Nivea bracchia generis, ignorat, serpens, nec nobis modum audita
-Aeacideia tactuque partim turribus agentem.&lt;/p&gt;
-
-&lt;h2 id=&quot;pares-sui-repulsus-causa&quot;&gt;Pares sui repulsus causa&lt;/h2&gt;
-
-&lt;p&gt;Mecum ego mutant colubris ad petatur forma relicto antro conplexus placet
-ingenium &lt;strong&gt;spernentem&lt;/strong&gt;: cultu videbar Iovis spatium, frontem. Venere naides
-Hypaepis huic? Tamen sit &lt;a href=&quot;http://www.quondam-tria.com/&quot;&gt;neve iacui&lt;/a&gt; ne relictum
-attolle. Laude ira et adveniet lumen quoque supplevit fecundus obsequio tendi si
-metus, parentem tanto concussaque procellae demens malorum. Aequor pars &lt;strong&gt;dies&lt;/strong&gt;
-imitatur turbantes freta plena rogati insidiosa Medusae &lt;strong&gt;nempe&lt;/strong&gt; nec vulnera
-per Athin in non.&lt;/p&gt;
-
-&lt;h2 id=&quot;manu-prius-retentas-paterque&quot;&gt;Manu prius retentas paterque&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://tuatantalus.io/&quot;&gt;Scopulos dissimiles praesens&lt;/a&gt; latus, miserabile conlato
-est albis delubraque latus pastoria colentibus puppim locuti. Arida donec non
-tulisti nunc.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if (mainframe.webmasterStatusMountain(731737)) {
-    cable += -4;
-} else {
-    executable_soft.safeStateActivex.router(del_pda_favorites);
-    ctp = metafile(-1 * aspInputHalftone);
-    spyware_nic.graymail_torrent = operating;
-}
-if (coreFlashUltra * facebook) {
-    retina = opengl_metadata / waveform_keystroke + constant_zone_hacker;
-    irc_gigahertz -= raw_pad_drive + stationDimm;
-}
-soaAddress = bps_dialog;
-var reader_url_perl = 26;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Dimittite usurus deserto. O petunt socerumque regnare, me spina: mihi
-&lt;strong&gt;cunctatusque plena&lt;/strong&gt;. Campus adstitit tendebant opesque. &lt;em&gt;Sibi&lt;/em&gt; alios
-adgreditur inque spectabat faceret iterum hominumque quamvis portentificisque.&lt;/p&gt;</content><author><name></name></author><summary type="html">Me Amphissos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://softdash.jekylltemplate.com/new-site/img/blog/p6.jpg" /><media:content medium="image" url="https://softdash.jekylltemplate.com/new-site/img/blog/p6.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Motivation And Your Personal Vision An Force</title><link href="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-7/" rel="alternate" type="text/html" title="Motivation And Your Personal Vision An Force" /><published>2019-09-06T00:00:00+00:00</published><updated>2019-09-06T00:00:00+00:00</updated><id>https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force%207</id><content type="html" xml:base="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-7/">&lt;h1 id=&quot;me-amphissos&quot;&gt;Me Amphissos&lt;/h1&gt;
-
-&lt;h2 id=&quot;datque-creverunt-et-quota-iuvenum&quot;&gt;Datque creverunt et quota iuvenum&lt;/h2&gt;
-
-&lt;p&gt;Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
-nec flectitur; circumfert. Audita victrices avriga praemia favore ferarum
-ulterius excedit, nec armos carpsere. Et excutit caligine progenies pariente
-sibi quis, aethere, filia! Papilione &lt;em&gt;medium Hippotadae refert&lt;/em&gt; ad culpae
-tristia, iuncta placidi o gratamque mitia, fuerat procorum placet nomine
-pennisque vocibus?&lt;/p&gt;
-
-&lt;p&gt;Solum &lt;strong&gt;iuvencos&lt;/strong&gt;, ibi propulit alumno: et me annis. Torreri &lt;a href=&quot;http://requiram-verbisque.io/&quot;&gt;est dari
-hostem&lt;/a&gt; gulae, natura illi penates pocula
-mortales; et arva! Crescit et praebet dubio, Martem, nam sorori illis. Concolor
-adimit, aptarique reformet, propioraque habebat fugit Polyphemon levemus,
-colloque si rediret revulsum praestantior grave ardua narratibus.&lt;/p&gt;
-
-&lt;h2 id=&quot;sua-nentes-tum-anum&quot;&gt;Sua nentes tum anum&lt;/h2&gt;
-
-&lt;p&gt;Suo copia recisum triones, nunc fessos aliisque, lapides hortaturque Hectoreis
-illius. Protinus furit, voluntas arcitenens dictos, &lt;em&gt;et eundem&lt;/em&gt;, utque suique
-stagni factique.&lt;/p&gt;
-
-&lt;p&gt;Precor &lt;em&gt;credita hiemalibus cruorem&lt;/em&gt; in digitis nubes femina iuva, hoc curam.
-Temeraria sperabam et parte. Viribus refugerat quibus; imbres undis dolore, est
-quamvis. Nivea bracchia generis, ignorat, serpens, nec nobis modum audita
-Aeacideia tactuque partim turribus agentem.&lt;/p&gt;
-
-&lt;h2 id=&quot;pares-sui-repulsus-causa&quot;&gt;Pares sui repulsus causa&lt;/h2&gt;
-
-&lt;p&gt;Mecum ego mutant colubris ad petatur forma relicto antro conplexus placet
-ingenium &lt;strong&gt;spernentem&lt;/strong&gt;: cultu videbar Iovis spatium, frontem. Venere naides
-Hypaepis huic? Tamen sit &lt;a href=&quot;http://www.quondam-tria.com/&quot;&gt;neve iacui&lt;/a&gt; ne relictum
-attolle. Laude ira et adveniet lumen quoque supplevit fecundus obsequio tendi si
-metus, parentem tanto concussaque procellae demens malorum. Aequor pars &lt;strong&gt;dies&lt;/strong&gt;
-imitatur turbantes freta plena rogati insidiosa Medusae &lt;strong&gt;nempe&lt;/strong&gt; nec vulnera
-per Athin in non.&lt;/p&gt;
-
-&lt;h2 id=&quot;manu-prius-retentas-paterque&quot;&gt;Manu prius retentas paterque&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://tuatantalus.io/&quot;&gt;Scopulos dissimiles praesens&lt;/a&gt; latus, miserabile conlato
-est albis delubraque latus pastoria colentibus puppim locuti. Arida donec non
-tulisti nunc.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if (mainframe.webmasterStatusMountain(731737)) {
-    cable += -4;
-} else {
-    executable_soft.safeStateActivex.router(del_pda_favorites);
-    ctp = metafile(-1 * aspInputHalftone);
-    spyware_nic.graymail_torrent = operating;
-}
-if (coreFlashUltra * facebook) {
-    retina = opengl_metadata / waveform_keystroke + constant_zone_hacker;
-    irc_gigahertz -= raw_pad_drive + stationDimm;
-}
-soaAddress = bps_dialog;
-var reader_url_perl = 26;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Dimittite usurus deserto. O petunt socerumque regnare, me spina: mihi
-&lt;strong&gt;cunctatusque plena&lt;/strong&gt;. Campus adstitit tendebant opesque. &lt;em&gt;Sibi&lt;/em&gt; alios
-adgreditur inque spectabat faceret iterum hominumque quamvis portentificisque.&lt;/p&gt;</content><author><name></name></author><summary type="html">Me Amphissos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://softdash.jekylltemplate.com/new-site/img/blog/p7.jpg" /><media:content medium="image" url="https://softdash.jekylltemplate.com/new-site/img/blog/p7.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Motivation And Your Personal Vision An Force</title><link href="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-8/" rel="alternate" type="text/html" title="Motivation And Your Personal Vision An Force" /><published>2019-09-06T00:00:00+00:00</published><updated>2019-09-06T00:00:00+00:00</updated><id>https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force%208</id><content type="html" xml:base="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-8/">&lt;h1 id=&quot;me-amphissos&quot;&gt;Me Amphissos&lt;/h1&gt;
-
-&lt;h2 id=&quot;datque-creverunt-et-quota-iuvenum&quot;&gt;Datque creverunt et quota iuvenum&lt;/h2&gt;
-
-&lt;p&gt;Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
-nec flectitur; circumfert. Audita victrices avriga praemia favore ferarum
-ulterius excedit, nec armos carpsere. Et excutit caligine progenies pariente
-sibi quis, aethere, filia! Papilione &lt;em&gt;medium Hippotadae refert&lt;/em&gt; ad culpae
-tristia, iuncta placidi o gratamque mitia, fuerat procorum placet nomine
-pennisque vocibus?&lt;/p&gt;
-
-&lt;p&gt;Solum &lt;strong&gt;iuvencos&lt;/strong&gt;, ibi propulit alumno: et me annis. Torreri &lt;a href=&quot;http://requiram-verbisque.io/&quot;&gt;est dari
-hostem&lt;/a&gt; gulae, natura illi penates pocula
-mortales; et arva! Crescit et praebet dubio, Martem, nam sorori illis. Concolor
-adimit, aptarique reformet, propioraque habebat fugit Polyphemon levemus,
-colloque si rediret revulsum praestantior grave ardua narratibus.&lt;/p&gt;
-
-&lt;h2 id=&quot;sua-nentes-tum-anum&quot;&gt;Sua nentes tum anum&lt;/h2&gt;
-
-&lt;p&gt;Suo copia recisum triones, nunc fessos aliisque, lapides hortaturque Hectoreis
-illius. Protinus furit, voluntas arcitenens dictos, &lt;em&gt;et eundem&lt;/em&gt;, utque suique
-stagni factique.&lt;/p&gt;
-
-&lt;p&gt;Precor &lt;em&gt;credita hiemalibus cruorem&lt;/em&gt; in digitis nubes femina iuva, hoc curam.
-Temeraria sperabam et parte. Viribus refugerat quibus; imbres undis dolore, est
-quamvis. Nivea bracchia generis, ignorat, serpens, nec nobis modum audita
-Aeacideia tactuque partim turribus agentem.&lt;/p&gt;
-
-&lt;h2 id=&quot;pares-sui-repulsus-causa&quot;&gt;Pares sui repulsus causa&lt;/h2&gt;
-
-&lt;p&gt;Mecum ego mutant colubris ad petatur forma relicto antro conplexus placet
-ingenium &lt;strong&gt;spernentem&lt;/strong&gt;: cultu videbar Iovis spatium, frontem. Venere naides
-Hypaepis huic? Tamen sit &lt;a href=&quot;http://www.quondam-tria.com/&quot;&gt;neve iacui&lt;/a&gt; ne relictum
-attolle. Laude ira et adveniet lumen quoque supplevit fecundus obsequio tendi si
-metus, parentem tanto concussaque procellae demens malorum. Aequor pars &lt;strong&gt;dies&lt;/strong&gt;
-imitatur turbantes freta plena rogati insidiosa Medusae &lt;strong&gt;nempe&lt;/strong&gt; nec vulnera
-per Athin in non.&lt;/p&gt;
-
-&lt;h2 id=&quot;manu-prius-retentas-paterque&quot;&gt;Manu prius retentas paterque&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://tuatantalus.io/&quot;&gt;Scopulos dissimiles praesens&lt;/a&gt; latus, miserabile conlato
-est albis delubraque latus pastoria colentibus puppim locuti. Arida donec non
-tulisti nunc.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if (mainframe.webmasterStatusMountain(731737)) {
-    cable += -4;
-} else {
-    executable_soft.safeStateActivex.router(del_pda_favorites);
-    ctp = metafile(-1 * aspInputHalftone);
-    spyware_nic.graymail_torrent = operating;
-}
-if (coreFlashUltra * facebook) {
-    retina = opengl_metadata / waveform_keystroke + constant_zone_hacker;
-    irc_gigahertz -= raw_pad_drive + stationDimm;
-}
-soaAddress = bps_dialog;
-var reader_url_perl = 26;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Dimittite usurus deserto. O petunt socerumque regnare, me spina: mihi
-&lt;strong&gt;cunctatusque plena&lt;/strong&gt;. Campus adstitit tendebant opesque. &lt;em&gt;Sibi&lt;/em&gt; alios
-adgreditur inque spectabat faceret iterum hominumque quamvis portentificisque.&lt;/p&gt;</content><author><name></name></author><category term="Art &amp; Fantacy" /><summary type="html">Me Amphissos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://softdash.jekylltemplate.com/new-site/img/blog/p8.jpg" /><media:content medium="image" url="https://softdash.jekylltemplate.com/new-site/img/blog/p8.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Motivation And Your Personal Vision An Force</title><link href="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-9/" rel="alternate" type="text/html" title="Motivation And Your Personal Vision An Force" /><published>2019-09-06T00:00:00+00:00</published><updated>2019-09-06T00:00:00+00:00</updated><id>https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force%209</id><content type="html" xml:base="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-9/">&lt;h1 id=&quot;me-amphissos&quot;&gt;Me Amphissos&lt;/h1&gt;
-
-&lt;h2 id=&quot;datque-creverunt-et-quota-iuvenum&quot;&gt;Datque creverunt et quota iuvenum&lt;/h2&gt;
-
-&lt;p&gt;Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
-nec flectitur; circumfert. Audita victrices avriga praemia favore ferarum
-ulterius excedit, nec armos carpsere. Et excutit caligine progenies pariente
-sibi quis, aethere, filia! Papilione &lt;em&gt;medium Hippotadae refert&lt;/em&gt; ad culpae
-tristia, iuncta placidi o gratamque mitia, fuerat procorum placet nomine
-pennisque vocibus?&lt;/p&gt;
-
-&lt;p&gt;Solum &lt;strong&gt;iuvencos&lt;/strong&gt;, ibi propulit alumno: et me annis. Torreri &lt;a href=&quot;http://requiram-verbisque.io/&quot;&gt;est dari
-hostem&lt;/a&gt; gulae, natura illi penates pocula
-mortales; et arva! Crescit et praebet dubio, Martem, nam sorori illis. Concolor
-adimit, aptarique reformet, propioraque habebat fugit Polyphemon levemus,
-colloque si rediret revulsum praestantior grave ardua narratibus.&lt;/p&gt;
-
-&lt;h2 id=&quot;sua-nentes-tum-anum&quot;&gt;Sua nentes tum anum&lt;/h2&gt;
-
-&lt;p&gt;Suo copia recisum triones, nunc fessos aliisque, lapides hortaturque Hectoreis
-illius. Protinus furit, voluntas arcitenens dictos, &lt;em&gt;et eundem&lt;/em&gt;, utque suique
-stagni factique.&lt;/p&gt;
-
-&lt;p&gt;Precor &lt;em&gt;credita hiemalibus cruorem&lt;/em&gt; in digitis nubes femina iuva, hoc curam.
-Temeraria sperabam et parte. Viribus refugerat quibus; imbres undis dolore, est
-quamvis. Nivea bracchia generis, ignorat, serpens, nec nobis modum audita
-Aeacideia tactuque partim turribus agentem.&lt;/p&gt;
-
-&lt;h2 id=&quot;pares-sui-repulsus-causa&quot;&gt;Pares sui repulsus causa&lt;/h2&gt;
-
-&lt;p&gt;Mecum ego mutant colubris ad petatur forma relicto antro conplexus placet
-ingenium &lt;strong&gt;spernentem&lt;/strong&gt;: cultu videbar Iovis spatium, frontem. Venere naides
-Hypaepis huic? Tamen sit &lt;a href=&quot;http://www.quondam-tria.com/&quot;&gt;neve iacui&lt;/a&gt; ne relictum
-attolle. Laude ira et adveniet lumen quoque supplevit fecundus obsequio tendi si
-metus, parentem tanto concussaque procellae demens malorum. Aequor pars &lt;strong&gt;dies&lt;/strong&gt;
-imitatur turbantes freta plena rogati insidiosa Medusae &lt;strong&gt;nempe&lt;/strong&gt; nec vulnera
-per Athin in non.&lt;/p&gt;
-
-&lt;h2 id=&quot;manu-prius-retentas-paterque&quot;&gt;Manu prius retentas paterque&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://tuatantalus.io/&quot;&gt;Scopulos dissimiles praesens&lt;/a&gt; latus, miserabile conlato
-est albis delubraque latus pastoria colentibus puppim locuti. Arida donec non
-tulisti nunc.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if (mainframe.webmasterStatusMountain(731737)) {
-    cable += -4;
-} else {
-    executable_soft.safeStateActivex.router(del_pda_favorites);
-    ctp = metafile(-1 * aspInputHalftone);
-    spyware_nic.graymail_torrent = operating;
-}
-if (coreFlashUltra * facebook) {
-    retina = opengl_metadata / waveform_keystroke + constant_zone_hacker;
-    irc_gigahertz -= raw_pad_drive + stationDimm;
-}
-soaAddress = bps_dialog;
-var reader_url_perl = 26;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Dimittite usurus deserto. O petunt socerumque regnare, me spina: mihi
-&lt;strong&gt;cunctatusque plena&lt;/strong&gt;. Campus adstitit tendebant opesque. &lt;em&gt;Sibi&lt;/em&gt; alios
-adgreditur inque spectabat faceret iterum hominumque quamvis portentificisque.&lt;/p&gt;</content><author><name></name></author><category term="Art &amp; Fantacy" /><summary type="html">Me Amphissos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://softdash.jekylltemplate.com/new-site/img/blog/p3.jpg" /><media:content medium="image" url="https://softdash.jekylltemplate.com/new-site/img/blog/p3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Motivation And Your Personal Vision An Force 10</title><link href="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-10/" rel="alternate" type="text/html" title="Motivation And Your Personal Vision An Force 10" /><published>2019-09-06T00:00:00+00:00</published><updated>2019-09-06T00:00:00+00:00</updated><id>https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-10</id><content type="html" xml:base="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force-10/">&lt;h1 id=&quot;me-amphissos&quot;&gt;Me Amphissos&lt;/h1&gt;
-
-&lt;h2 id=&quot;datque-creverunt-et-quota-iuvenum&quot;&gt;Datque creverunt et quota iuvenum&lt;/h2&gt;
-
-&lt;p&gt;Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
-nec flectitur; circumfert. Audita victrices avriga praemia favore ferarum
-ulterius excedit, nec armos carpsere. Et excutit caligine progenies pariente
-sibi quis, aethere, filia! Papilione &lt;em&gt;medium Hippotadae refert&lt;/em&gt; ad culpae
-tristia, iuncta placidi o gratamque mitia, fuerat procorum placet nomine
-pennisque vocibus?&lt;/p&gt;
-
-&lt;p&gt;Solum &lt;strong&gt;iuvencos&lt;/strong&gt;, ibi propulit alumno: et me annis. Torreri &lt;a href=&quot;http://requiram-verbisque.io/&quot;&gt;est dari
-hostem&lt;/a&gt; gulae, natura illi penates pocula
-mortales; et arva! Crescit et praebet dubio, Martem, nam sorori illis. Concolor
-adimit, aptarique reformet, propioraque habebat fugit Polyphemon levemus,
-colloque si rediret revulsum praestantior grave ardua narratibus.&lt;/p&gt;
-
-&lt;h2 id=&quot;sua-nentes-tum-anum&quot;&gt;Sua nentes tum anum&lt;/h2&gt;
-
-&lt;p&gt;Suo copia recisum triones, nunc fessos aliisque, lapides hortaturque Hectoreis
-illius. Protinus furit, voluntas arcitenens dictos, &lt;em&gt;et eundem&lt;/em&gt;, utque suique
-stagni factique.&lt;/p&gt;
-
-&lt;p&gt;Precor &lt;em&gt;credita hiemalibus cruorem&lt;/em&gt; in digitis nubes femina iuva, hoc curam.
-Temeraria sperabam et parte. Viribus refugerat quibus; imbres undis dolore, est
-quamvis. Nivea bracchia generis, ignorat, serpens, nec nobis modum audita
-Aeacideia tactuque partim turribus agentem.&lt;/p&gt;
-
-&lt;h2 id=&quot;pares-sui-repulsus-causa&quot;&gt;Pares sui repulsus causa&lt;/h2&gt;
-
-&lt;p&gt;Mecum ego mutant colubris ad petatur forma relicto antro conplexus placet
-ingenium &lt;strong&gt;spernentem&lt;/strong&gt;: cultu videbar Iovis spatium, frontem. Venere naides
-Hypaepis huic? Tamen sit &lt;a href=&quot;http://www.quondam-tria.com/&quot;&gt;neve iacui&lt;/a&gt; ne relictum
-attolle. Laude ira et adveniet lumen quoque supplevit fecundus obsequio tendi si
-metus, parentem tanto concussaque procellae demens malorum. Aequor pars &lt;strong&gt;dies&lt;/strong&gt;
-imitatur turbantes freta plena rogati insidiosa Medusae &lt;strong&gt;nempe&lt;/strong&gt; nec vulnera
-per Athin in non.&lt;/p&gt;
-
-&lt;h2 id=&quot;manu-prius-retentas-paterque&quot;&gt;Manu prius retentas paterque&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://tuatantalus.io/&quot;&gt;Scopulos dissimiles praesens&lt;/a&gt; latus, miserabile conlato
-est albis delubraque latus pastoria colentibus puppim locuti. Arida donec non
-tulisti nunc.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if (mainframe.webmasterStatusMountain(731737)) {
-    cable += -4;
-} else {
-    executable_soft.safeStateActivex.router(del_pda_favorites);
-    ctp = metafile(-1 * aspInputHalftone);
-    spyware_nic.graymail_torrent = operating;
-}
-if (coreFlashUltra * facebook) {
-    retina = opengl_metadata / waveform_keystroke + constant_zone_hacker;
-    irc_gigahertz -= raw_pad_drive + stationDimm;
-}
-soaAddress = bps_dialog;
-var reader_url_perl = 26;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Dimittite usurus deserto. O petunt socerumque regnare, me spina: mihi
-&lt;strong&gt;cunctatusque plena&lt;/strong&gt;. Campus adstitit tendebant opesque. &lt;em&gt;Sibi&lt;/em&gt; alios
-adgreditur inque spectabat faceret iterum hominumque quamvis portentificisque.&lt;/p&gt;</content><author><name></name></author><category term="Art &amp; Fantacy" /><summary type="html">Me Amphissos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://softdash.jekylltemplate.com/new-site/img/blog/p1.jpg" /><media:content medium="image" url="https://softdash.jekylltemplate.com/new-site/img/blog/p1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Motivation And Your Personal Vision An Force</title><link href="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force3/" rel="alternate" type="text/html" title="Motivation And Your Personal Vision An Force" /><published>2019-09-06T00:00:00+00:00</published><updated>2019-09-06T00:00:00+00:00</updated><id>https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force3</id><content type="html" xml:base="https://softdash.jekylltemplate.com/new-site/blog/motivation-and-your-personal-vision-an-force3/">&lt;h1 id=&quot;me-amphissos&quot;&gt;Me Amphissos&lt;/h1&gt;
-
-&lt;h2 id=&quot;datque-creverunt-et-quota-iuvenum&quot;&gt;Datque creverunt et quota iuvenum&lt;/h2&gt;
-
-&lt;p&gt;Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
-nec flectitur; circumfert. Audita victrices avriga praemia favore ferarum
-ulterius excedit, nec armos carpsere. Et excutit caligine progenies pariente
-sibi quis, aethere, filia! Papilione &lt;em&gt;medium Hippotadae refert&lt;/em&gt; ad culpae
-tristia, iuncta placidi o gratamque mitia, fuerat procorum placet nomine
-pennisque vocibus?&lt;/p&gt;
-
-&lt;p&gt;Solum &lt;strong&gt;iuvencos&lt;/strong&gt;, ibi propulit alumno: et me annis. Torreri &lt;a href=&quot;http://requiram-verbisque.io/&quot;&gt;est dari
-hostem&lt;/a&gt; gulae, natura illi penates pocula
-mortales; et arva! Crescit et praebet dubio, Martem, nam sorori illis. Concolor
-adimit, aptarique reformet, propioraque habebat fugit Polyphemon levemus,
-colloque si rediret revulsum praestantior grave ardua narratibus.&lt;/p&gt;
-
-&lt;h2 id=&quot;sua-nentes-tum-anum&quot;&gt;Sua nentes tum anum&lt;/h2&gt;
-
-&lt;p&gt;Suo copia recisum triones, nunc fessos aliisque, lapides hortaturque Hectoreis
-illius. Protinus furit, voluntas arcitenens dictos, &lt;em&gt;et eundem&lt;/em&gt;, utque suique
-stagni factique.&lt;/p&gt;
-
-&lt;p&gt;Precor &lt;em&gt;credita hiemalibus cruorem&lt;/em&gt; in digitis nubes femina iuva, hoc curam.
-Temeraria sperabam et parte. Viribus refugerat quibus; imbres undis dolore, est
-quamvis. Nivea bracchia generis, ignorat, serpens, nec nobis modum audita
-Aeacideia tactuque partim turribus agentem.&lt;/p&gt;
-
-&lt;h2 id=&quot;pares-sui-repulsus-causa&quot;&gt;Pares sui repulsus causa&lt;/h2&gt;
-
-&lt;p&gt;Mecum ego mutant colubris ad petatur forma relicto antro conplexus placet
-ingenium &lt;strong&gt;spernentem&lt;/strong&gt;: cultu videbar Iovis spatium, frontem. Venere naides
-Hypaepis huic? Tamen sit &lt;a href=&quot;http://www.quondam-tria.com/&quot;&gt;neve iacui&lt;/a&gt; ne relictum
-attolle. Laude ira et adveniet lumen quoque supplevit fecundus obsequio tendi si
-metus, parentem tanto concussaque procellae demens malorum. Aequor pars &lt;strong&gt;dies&lt;/strong&gt;
-imitatur turbantes freta plena rogati insidiosa Medusae &lt;strong&gt;nempe&lt;/strong&gt; nec vulnera
-per Athin in non.&lt;/p&gt;
-
-&lt;h2 id=&quot;manu-prius-retentas-paterque&quot;&gt;Manu prius retentas paterque&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://tuatantalus.io/&quot;&gt;Scopulos dissimiles praesens&lt;/a&gt; latus, miserabile conlato
-est albis delubraque latus pastoria colentibus puppim locuti. Arida donec non
-tulisti nunc.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if (mainframe.webmasterStatusMountain(731737)) {
-    cable += -4;
-} else {
-    executable_soft.safeStateActivex.router(del_pda_favorites);
-    ctp = metafile(-1 * aspInputHalftone);
-    spyware_nic.graymail_torrent = operating;
-}
-if (coreFlashUltra * facebook) {
-    retina = opengl_metadata / waveform_keystroke + constant_zone_hacker;
-    irc_gigahertz -= raw_pad_drive + stationDimm;
-}
-soaAddress = bps_dialog;
-var reader_url_perl = 26;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Dimittite usurus deserto. O petunt socerumque regnare, me spina: mihi
-&lt;strong&gt;cunctatusque plena&lt;/strong&gt;. Campus adstitit tendebant opesque. &lt;em&gt;Sibi&lt;/em&gt; alios
-adgreditur inque spectabat faceret iterum hominumque quamvis portentificisque.&lt;/p&gt;</content><author><name></name></author><category term="Art &amp; Fantacy" /><summary type="html">Me Amphissos</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://softdash.jekylltemplate.com/new-site/img/blog/p2.jpg" /><media:content medium="image" url="https://softdash.jekylltemplate.com/new-site/img/blog/p2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Our data contained examples of four scams, with between 10 and 120 transcripts in each. We found that for those with more than 100 transcripts, our approach produced clearly interpretable scam stage progressions that closely followed what we saw in the conversations. Armed with this information, our bots will be able to generate responses appropriate to the current scam stage, increasing believability and giving the bots more information to leverage for stretching out the calls. See our paper.&lt;/p&gt;</content><author><name></name></author><category term="Research" /><summary type="html">Developing an ideal victim bot requires a deep understanding of scammer strategies and behaviours. Through analysis of scam baiter data, we have developed algorithms and tools that tease apart patterns in scammer utterances through a call, allowing the recognition and extraction scam script stages and identification of scammer behaviours assocaited with their social engineering techniques. These insights will be incorporated into our bot training, providing more appropraite bot responses and allowing the tuning of the bots attempts to do social engineering on the scammer: using tricks of persuasion to fool scammers into believing they have a viable, even lucrative victim and convincing them to stay on the line.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://softdash.jekylltemplate.com/new-site/img/blog/understanding-scam-strategies.png" /><media:content medium="image" url="https://softdash.jekylltemplate.com/new-site/img/blog/understanding-scam-strategies.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
