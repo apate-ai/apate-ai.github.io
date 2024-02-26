@@ -226,9 +226,21 @@ $(document).ready(function () {
         // autoplay: true,
         autoplayTimeout: 4000,
         autoplayHoverPause: true,
-        smartSpeed: 800,
+        fluidSpeed: 800,
     });
 
+    $('.active-brand-carusel').owlCarousel({
+        items: 4,
+        loop: true,
+        // rewind: true,
+        margin: 20,
+        autoplay: true,
+        autoplayTimeout: 2000,
+        autoWidth:true,
+        // autoplayHoverPause: true,
+        autoplaySpeed: 800,
+        animateOut: 'fadeOut'
+    });
 
     $('.active-execution-carusel').owlCarousel({
         items: 1,
