@@ -97,7 +97,7 @@ $(document).ready(function () {
 
                 $('html, body').animate({
                     scrollTop: target.offset().top - top_space
-                }, 1500, 'easeInOutExpo');
+                }, 150, 'easeInOutExpo');
 
                 if ($(this).parents('.nav-menu').length) {
                     $('.nav-menu .menu-active').removeClass('menu-active');
