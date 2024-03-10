@@ -22,13 +22,13 @@ $(function() {
         $.ajax({
             type: 'POST',
             url: $(form).attr('action'),
-            data: formData,
-            dataType: "json",
-            processData: false,
-            contentType: false,
-            headers: {
-                "Accept": "application/json"
-            }
+            data: formData
+            // dataType: "json",
+            // processData: false,
+            // contentType: false,
+            // headers: {
+            //     "Accept": "application/json"
+            // }
         })
         .done(function(response) {
             // Make sure that the formMessages div has the 'success' class.
@@ -36,7 +36,7 @@ $(function() {
             $(formMessages).addClass('success');
 
             // Set the message text.
-            $(formMessages).text(response.message);
+            $(formMessages).text("Message sent successfully");
 
             // Clear the form.
             $('#contact-form input,#contact-form textarea').val('');
