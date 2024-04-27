@@ -535,12 +535,15 @@
 
                         <label for="">Message</label>
                         <textarea class="common-textarea form-control" cols="30" rows="7" name="text" autocomplete="message"
-                            placeholder="Enter Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Messege'"
+                            placeholder="Enter Message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter MEssage'"
                             required=""></textarea>
                         <input type="hidden" name="_captcha" value="false">
                         <div class="">
                             <button class="genric-btn2 mt-30">Send Message</button>
-                            <div class="alert-msg"></div>
+                            <div class="feedback">
+                                <div id="loader" class="loader"><img src="https://cdnjs.cloudflare.com/ajax/libs/galleriffic/2.0.1/css/loader.gif"></div>
+                                <h4 class="alert-msg"></h4>
+                            </div>
                         </div>
                     </form>
 
@@ -692,20 +695,9 @@
                         <h4>Apate</h4>
                         <p>Get Apate's one pager</p>
                         <div class="d-flex flex-row newsletter-form" id="mc_embed_signup">
-
-                            <form class="navbar-form" 
-                            action="http://twitter.us2.list-manage.com/subscribe/post?u=&amp;id="
-                                method="post" novalidate >
-                                <div class="d-flex form-wrap">
-                                    <input class="form-control" name="EMAIL" autocomplete="email" placeholder="Your email address"
-                                        onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your email address'"
-                                        required="" type="email">
-                                    <button class="submit-btn" type="submit">
-                                        <span class="lnr lnr-arrow-right"></span>
-                                    </button>
-                                </div>
-                                <div class="info mt-20"></div>
-                            </form>
+                            <button class="submit-btn" onClick="window.open('/docs/apate-ai-callee-one-pager.pdf');">
+                                <span class="lnr lnr-arrow-right"></span>
+                            </button>
                         </div>
                     </div>
                 </div>
